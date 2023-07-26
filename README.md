@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhulbul</h1>
 <h3 align="center">Expertise PHP Laravel developer which strong at backend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhulbul&label=Profile%20views&color=0e75b6&style=flat" alt="bhulbul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhulbul&label=Profile%20views&color=0e75b6&style=flat" alt="bhulbul" /> 
+<img src="https://wakatime.com/badge/user/af0c07a0-aa1c-431d-b5d8-28535a3b3465.svg" alt="Total time coded since Jun 4 2023" /></a>
+</p>
 
 - 🔭 I’m currently working on [Indonesia API](https://github.com/bhulbul/satu-api)
 - 🌱 I’m currently learning **Python, GraphQL, MQTT**
